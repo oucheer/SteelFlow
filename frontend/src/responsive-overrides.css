@@ -1,0 +1,9 @@
+@media (max-width: 1000px) and (min-width: 641px) {
+  .ai-layout {
+    grid-template-columns: 220px minmax(300px, 1fr) 220px;
+  }
+
+  .business-context {
+    display: block;
+  }
+}
